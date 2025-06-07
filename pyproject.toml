@@ -1,0 +1,10 @@
+[project]
+name = "simple-local-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckduckgo-search>=8.0.2",
+    "openai>=1.84.0",
+]
